@@ -47,7 +47,7 @@ class _DiceRollerState extends State<DiceRoller> {
                 ),
                 child: const Text(
                   'Roll Dice',
-                  style: TextStyle(color: Color.fromARGB(255, 236, 11, 11)),
+                  style: TextStyle(color: Color.fromARGB(255, 17, 0, 0)),
                 ))
           ],
         );
