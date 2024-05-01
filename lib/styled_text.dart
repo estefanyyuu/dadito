@@ -10,7 +10,7 @@ class StyledText extends StatelessWidget {
     return Text(
           text,
           style: const TextStyle(
-            color: Colors.white,
+            color: Color.fromARGB(255, 5, 0, 0),
             fontSize: 28,
           ),
         );
@@ -18,7 +18,7 @@ class StyledText extends StatelessWidget {
     //   mainAxisAlignment: MainAxisAlignment.center,
     //   children: [
     //     Image(image: NetworkImage('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrmfPVCryBUb3eN06EpdCGNUEUGn3Jv_GhCvLknnR3yg&s')),
-    //     Text('Hola Tonotos', style: TextStyle(color: Colors.white, fontSize: 28),),
+    //     Text('Hola Tonotos', style: TextStyle(color: Colors.black, fontSize: 28),),
     //   ],
     // );
   }
