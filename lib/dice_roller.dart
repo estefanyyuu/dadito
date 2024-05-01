@@ -46,7 +46,7 @@ class _DiceRollerState extends State<DiceRoller> {
                   ),
                 ),
                 child: const Text(
-                  'Roll Dice',
+                  'GIRAR DADO',
                   style: TextStyle(color: Color.fromARGB(255, 17, 0, 0)),
                 ))
           ],
